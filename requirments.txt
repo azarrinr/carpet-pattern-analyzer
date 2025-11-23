@@ -1,0 +1,7 @@
+streamlit
+pillow
+numpy
+matplotlib
+scikit-learn
+anthropic
+openpyxl
